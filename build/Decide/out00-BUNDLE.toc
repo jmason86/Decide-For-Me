@@ -1,0 +1,3 @@
+([('Decide',
+   '/Users/jmason86/Dropbox/Development/Python/decide_for_me/dist/Decide',
+   'EXECUTABLE')],)
