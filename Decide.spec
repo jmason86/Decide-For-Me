@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['decide_for_me.py'],
-             pathex=['/Users/jmason86/Dropbox/Development/Python/decide_for_me'],
+             pathex=['/Users/jmason86/Dropbox/Development/Python/Decide-For-Me'],
              binaries=[],
              datas=[],
              hiddenimports=[],
