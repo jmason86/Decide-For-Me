@@ -1,3 +1,0 @@
-([('Decide',
-   '/Users/jmason86/Dropbox/Development/Python/Decide-For-Me/dist/Decide',
-   'EXECUTABLE')],)
